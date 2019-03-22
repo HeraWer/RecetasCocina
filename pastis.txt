@@ -1,6 +1,6 @@
 Manzana
 Nata
-Chocolate
+Pera //correcion
 Trufa
 Licor
 Pera
