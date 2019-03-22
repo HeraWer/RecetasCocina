@@ -6,3 +6,4 @@ Licor
 Pera
 Fresas
 Modificacion el pastis.txt remotamente
+Calorias de este pastel 800Kcal
