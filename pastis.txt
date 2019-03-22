@@ -5,3 +5,4 @@ Trufa
 Licor
 Pera
 Fresas
+Modificacion el pastis.txt remotamente
