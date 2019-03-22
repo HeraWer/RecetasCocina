@@ -5,4 +5,9 @@ Trufa
 Licor
 Pera
 Fresas
+
 Aquest pastis te una nota de 10.
+
+Modificacion el pastis.txt remotamente
+Calorias de este pastel 800Kcal
+
